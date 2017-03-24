@@ -60,4 +60,3 @@ var wordCardService = new(EkstepEditor.iService.extend({
         });
     }
 }));
-wordCardService.getLanguages();
